@@ -1,9 +1,8 @@
 <?php
 
-namespace Vojir\Responses\CsvResponse;
+namespace Vojir\Responses\TempFileResponse;
 
 use Nette;
-use Nette\SmartObject;
 
 /**
  * Class TempFileResponse
