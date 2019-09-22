@@ -6,7 +6,7 @@ use Nette;
 
 /**
  * Class TempFileResponse
- * @package Vojir\Responses\CsvResponse
+ * @package Vojir\Responses\TempFileResponse
  * @author Stanislav Vojíř
  */
 class TempFileResponse extends Nette\Application\Responses\FileResponse implements Nette\Application\IResponse{
